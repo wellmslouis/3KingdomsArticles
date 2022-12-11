@@ -1,5 +1,5 @@
 > 按照作品名首字母排列
-感谢Lofter[@一依度看文了吗（忙碌版）](https://wzx5626yyd.lofter.com/)整理的[all亮文包](https://wzx5626yyd.lofter.com/post/3110cdcf_2b41a261f)
+> 感谢Lofter[@一依度看文了吗（忙碌版）](https://wzx5626yyd.lofter.com/)整理的[all亮文包](https://wzx5626yyd.lofter.com/post/3110cdcf_2b41a261f)
 
 |作品名|作者|来源|标签|篇幅状态|备注|
 |-|-|-|-|-|-|

@@ -6,6 +6,7 @@
 |作品名|作者|来源|标签|篇幅状态|备注|
 |-|-|-|-|-|-|
 |白帝春深|艾草|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=1871761)|季汉/玄亮/史向|已完结/长篇||
+|薄情书|梦小夜°|[曹郭吧](https://tieba.baidu.com/p/3495440680?)|曹魏/曹郭/史向|已完结/短篇|日常与淡淡的虐|
 |不差钱|东风射马耳||曹郭|长篇||
 |策反者|章武春|晋江论坛|季汉/维亮|坑/长篇|维亮经典好文|
 |大好河山|匪华|策瑜吧|策瑜||一说公瑾臀波照大江出处《江东瑜策双雄情》（野风野火）涉嫌抄袭此文
@@ -32,7 +33,7 @@
 |蜀锦|诸葛伯约||维亮|||
 |蜀殇|||玄亮/生子|||
 |弱点|[流波浅吟](https://liuboqianyin.lofter.com/)|[Lofter](https://liuboqianyin.lofter.com/post/1d0cc088_c0c12ef)|季汉/维亮/演义向|已完结/短篇||
-|十二旒|螣Snake|[百度贴吧](https://tieba.baidu.com/p/765799168?)|曹all|||
+|十二旒|螣蛇吐灰|[魏宫风流吧](https://tieba.baidu.com/p/499763025)|曹all|短篇合集||
 |同学少年多不贱|若虚||现代/诸葛亮/月亮|已完结/长篇|亮和旧友上大学诸事|
 |*望笑远|程静语|[三国同人吧](https://tieba.baidu.com/p/435239745?pn=1)|策权/all权||哥权美出处|
 |**吴侬|晏昭泉|三国同人吧 蒙逊吧|蒙逊||笑倾合肥娇羞张出处|
@@ -51,3 +52,4 @@
 4. [【曹郭】同人文推荐与整理（一）](https://suiyueyiwan.lofter.com/post/1dd98fd6_c428c44)-LOFTER[@猫不许](https://suiyueyiwan.lofter.com/)
 5. [【附录篇】三国雷文口诀出处一览&三国相关内容推荐](https://lucksong.lofter.com/post/37b502_2b41168f1)-LOFTER[@幸歌](https://lucksong.lofter.com/)
 6. [个人向三国同人推荐](https://yongluan.lofter.com/post/1f263651_1cb9ed839)-LOFTER[@八風](https://yongluan.lofter.com/)
+7. [私人粮仓（曹魏 主郭嘉）（不断添加中……）](https://richangbeta.lofter.com/post/1cae7e89_94eb993)-LOFTER[@祭酒日常](https://richangbeta.lofter.com/)

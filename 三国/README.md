@@ -5,6 +5,7 @@
 
 |作品名|作者|来源|标签|篇幅状态|备注|
 |-|-|-|-|-|-|
+|白帝春深|艾草|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=1871761)|季汉/玄亮/史向|已完结/长篇||
 |不差钱|东风射马耳||曹郭|长篇||
 |策反者|章武春|晋江论坛|季汉/维亮|坑/长篇|维亮经典好文|
 |大好河山|匪华|策瑜吧|策瑜||一说公瑾臀波照大江出处《江东瑜策双雄情》（野风野火）涉嫌抄袭此文
@@ -17,7 +18,9 @@
 |*家有儿女|[ANNA](https://annafox.lofter.com/)|[Lofter](https://www.lofter.com/front/blog/collection/share?collectionId=1650389)|季汉/诸葛瞻/诸葛亮/姜维/现代|已完结/长篇|如果三国众陆续穿越到现代社会过着普通人的生活会怎样的脑洞|
 |姜维死后在地下见到蜀国重臣会是怎么样的对话?|[宣汉](https://www.zhihu.com/people/xuan-yi-18-97)|[知乎](https://www.zhihu.com/question/320254633/answer/685422409)|季汉/姜维/地府向|已完结/长篇||
 |锦江玉碎|||季汉/玄亮/虐身|已完结/短篇||
+|锦衾不耐寒|||维亮/h|已完结/短篇||
 |军师遇刺梗|||季汉/玄亮/战损|已完结/短篇|战损yyds|
+|孔明与姜维|石一枫||季汉/维亮|已完结/短篇|收姜维的另一种if；"此文血腥暴力色情远胜恨"|
 |乱世|迷之越|[玄亮吧](https://tieba.baidu.com/p/2824410311?see_lz=1&pn=1)|季汉/玄亮|长篇|亮凄然出处|
 |*玛丽苏和金手指和三国|[蒿里茫茫](https://www.jjwxc.net/oneauthor.php?authorid=1095861)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=5148726)|季汉大一统/原创女主/穿越/诸葛亮|已完结/长篇|女主穿越成刘璋之女，丞相之妾|
 |瞒草子|陈永年|百度贴吧|曹魏||嘉国色彧天香出处|
@@ -25,14 +28,18 @@
 |*你只能爱我|鬼游戏|[马赵吧](https://tieba.baidu.com/p/1262145046?pn=1)|马赵||一说为超狂野云哀伤出处|
 |请君葬花|爆米兔|玄受无疆吧|曹刘/袁刘||备潇湘出处|
 |*如果把宋高宗换成刘备，结果会不同吗？|[狸花胖了就是猞猁](https://www.zhihu.com/people/ta-ke-qin-wang-dian-xia)|[知乎](https://www.zhihu.com/question/372409601/answer/1060456543)|玄亮|已完结/长篇|脑洞大开|
+|授业|遐离||季汉/维亮|已完结/短篇|伯约亲一下丞相为丞相续命三年|
+|蜀锦|诸葛伯约||维亮|||
+|蜀殇|||玄亮/生子|||
 |弱点|[流波浅吟](https://liuboqianyin.lofter.com/)|[Lofter](https://liuboqianyin.lofter.com/post/1d0cc088_c0c12ef)|季汉/维亮/演义向|已完结/短篇||
+|十二旒|螣Snake|[百度贴吧](https://tieba.baidu.com/p/765799168?)|曹all|||
 |同学少年多不贱|若虚||现代/诸葛亮/月亮|已完结/长篇|亮和旧友上大学诸事|
 |*望笑远|程静语|[三国同人吧](https://tieba.baidu.com/p/435239745?pn=1)|策权/all权||哥权美出处|
 |**吴侬|晏昭泉|三国同人吧 蒙逊吧|蒙逊||笑倾合肥娇羞张出处|
 |**相煎|romasky|晋江原创网|懿丕/植丕||爹丕暖出处|
 |相思引|||维亮||维亮经典|
-|*诸葛军师群发短信后|朱下乡|[百度贴吧](https://tieba.baidu.com/p/2810639777)|多cp/h|未完结/长篇|欢乐搞笑无下限，人物形象崩坏而又不崩坏，第一次看这篇文我还在上初中，给了我深深的震撼|
-|*左将军府二三事|[千字文](https://qianziwen670.lofter.com/)|[Lofter](https://www.lofter.com/front/blog/collection/share?collectionId=6345356)|季汉/玄亮/史向|连载中/长篇|左将军府时期费董视角日常|
+|*诸葛军师群发短信后|朱下乡|[百度贴吧](https://tieba.baidu.com/p/2810639777)|多cp/h|未完结/短篇合集|欢乐搞笑无下限，人物形象崩坏而又不崩坏，第一次看这篇文我还在上初中，给了我深深的震撼|
+|*左将军府二三事|[千字文](https://qianziwen670.lofter.com/)|[Lofter](https://www.lofter.com/front/blog/collection/share?collectionId=6345356)|季汉/玄亮/史向|连载中/短篇合集|左将军府时期费董视角日常|
 
 ## 参考资料
 
@@ -43,3 +50,4 @@
 3. [【推文】玄亮中短篇同人文推荐+食用指南](https://yumeno-1113.lofter.com/post/1fbc3eec_2b57234b2)-LOFTER[@制冷剂罐头](https://yumeno-1113.lofter.com/)
 4. [【曹郭】同人文推荐与整理（一）](https://suiyueyiwan.lofter.com/post/1dd98fd6_c428c44)-LOFTER[@猫不许](https://suiyueyiwan.lofter.com/)
 5. [【附录篇】三国雷文口诀出处一览&三国相关内容推荐](https://lucksong.lofter.com/post/37b502_2b41168f1)-LOFTER[@幸歌](https://lucksong.lofter.com/)
+6. [个人向三国同人推荐](https://yongluan.lofter.com/post/1f263651_1cb9ed839)-LOFTER[@八風](https://yongluan.lofter.com/)

@@ -51,7 +51,7 @@
 |碎玉章台|[Mr_眉毛子](https://www.jjwxc.net/oneauthor.php?authorid=802051)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=1447853)|策瑜/all瑜/曹郭|待完结||
 |弱点|[流波浅吟](https://liuboqianyin.lofter.com/)|[Lofter](https://liuboqianyin.lofter.com/post/1d0cc088_c0c12ef)|季汉/维亮/演义向|已完结/短篇||
 |十二旒|螣蛇吐灰|[魏宫风流吧](https://tieba.baidu.com/p/499763025)|曹all|短篇合集||
-|同学少年多不贱|若虚||现代/诸葛亮/月亮|已完结/长篇|亮和旧友上大学诸事|
+|同学少年多不贱[<sup>1</sup>](#R1)|若虚||现代/诸葛亮/月亮|已完结/长篇|亮和旧友上大学诸事|
 |*望笑远|程静语|[三国同人吧](https://tieba.baidu.com/p/435239745?pn=1)|策权/all权||哥权美出处|
 |卫将军的猫|[ANNA](https://annafox.lofter.com/)|[Lofter](https://annafox.lofter.com/post/273284_1735859)|季汉/姜维/史向|已完结/短篇||
 |**吴侬|晏昭泉|三国同人吧 蒙逊吧|蒙逊||笑倾合肥娇羞张出处|

@@ -67,7 +67,14 @@
 
 > 顺序无意义
 
-1. [【推文/诸葛亮中心】撷明月予怀【-下-】](https://wzx5626yyd.lofter.com/post/3110cdcf_2b41a261f)-LOFTER[@一依度看文了吗（忙碌版）](https://wzx5626yyd.lofter.com/)
+
+<div>
+<a name="R1">[1]</a>
+<a href="https://wzx5626yyd.lofter.com/post/3110cdcf_2b41a261f">【推文/诸葛亮中心】撷明月予怀【-下-】</a>
+-LOFTER
+<a href="https://wzx5626yyd.lofter.com/">@一依度看文了吗（忙碌版）</a>
+</div> 
+
 2. [【补档】亮文推荐（1）](https://yscc99.lofter.com/post/320b50ae_1cca4d9c9)-LOFTER[@依子空谷](https://yscc99.lofter.com/)
 3. [【推文】玄亮中短篇同人文推荐+食用指南](https://yumeno-1113.lofter.com/post/1fbc3eec_2b57234b2)-LOFTER[@制冷剂罐头](https://yumeno-1113.lofter.com/)
 4. [【曹郭】同人文推荐与整理（一）](https://suiyueyiwan.lofter.com/post/1dd98fd6_c428c44)-LOFTER[@猫不许](https://suiyueyiwan.lofter.com/)

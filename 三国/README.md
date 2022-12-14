@@ -1,7 +1,8 @@
 ## 目录
 
-> 按照作品名首字母排列，点击来源查看原文。
-> `**`表示暂缺
+> 按照作品名首字母排列，点击来源查看原文；
+> `**`表示暂缺；
+> 本目录包含各类推文向文章（见参考资料）内推荐的作品；
 
 |作品名|作者|来源|标签|篇幅状态|备注|
 |-|-|-|-|-|-|
@@ -9,8 +10,10 @@
 |薄情书|梦小夜°|[曹郭吧](https://tieba.baidu.com/p/3495440680?)|曹魏/曹郭/史向|已完结/短篇|日常与淡淡的虐|
 |不差钱|东风射马耳||曹郭|长篇||
 |策反者|章武春|晋江论坛|季汉/维亮|坑/长篇|维亮经典好文|
+|长安诺|[ANNA](https://annafox.lofter.com/)|[Lofter](https://annafox.lofter.com/post/273284_16b8947)|季汉/马赵/史向|已完结/短篇|马赵镇圈文|
+|成都妖奇谈|[ANNA](https://annafox.lofter.com/)|[Lofter](https://annafox.lofter.com/post/273284_244bf18)|季汉|已完结/短篇||
 |大好河山|匪华|策瑜吧|策瑜||一说公瑾臀波照大江出处《江东瑜策双雄情》（野风野火）涉嫌抄袭此文
-|凤书三国|[露浓](https://www.jjwxc.net/oneauthor.php?authorid=269458)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=356637)|季汉大一统/原创女主/穿越/荀谌|已完结/长篇|女主穿越和刘备长女相貌相同|
+|凤书三国|[露浓](https://www.jjwxc.net/oneauthor.php?authorid=269458)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=356637)|季汉大一统/原创女主/身穿/荀谌|已完结/长篇|女主穿越和刘备长女相貌相同|
 |归处|熊猫F|蜀宫深处|季汉/玄亮|已完结/短篇|丞相先去世，刘备祭诸葛if|
 |归心|林奚||郭曹/生子||英雄母亲曹丞相出处|
 |恨|甜品有毒||all亮/h||懿爬墙出处|
@@ -20,10 +23,11 @@
 |姜维死后在地下见到蜀国重臣会是怎么样的对话?|[宣汉](https://www.zhihu.com/people/xuan-yi-18-97)|[知乎](https://www.zhihu.com/question/320254633/answer/685422409)|季汉/姜维/地府向|已完结/长篇||
 |锦江玉碎|||季汉/玄亮/虐身|已完结/短篇||
 |锦衾不耐寒|||维亮/h|已完结/短篇||
+|荆波宛在|[ANNA](https://annafox.lofter.com/)|[Lofter](https://www.lofter.com/front/blog/collection/share?collectionId=1650389)|季汉/姜维/魂穿|待完结/长篇|伯约死后穿回三顾前，有一次机会改变历史的故事|
 |军师遇刺梗|||季汉/玄亮/战损|已完结/短篇|战损yyds|
 |孔明与姜维|石一枫||季汉/维亮|已完结/短篇|收姜维的另一种if；"此文血腥暴力色情远胜恨"|
 |乱世|迷之越|[玄亮吧](https://tieba.baidu.com/p/2824410311?see_lz=1&pn=1)|季汉/玄亮|长篇|亮凄然出处|
-|*玛丽苏和金手指和三国|[蒿里茫茫](https://www.jjwxc.net/oneauthor.php?authorid=1095861)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=5148726)|季汉大一统/原创女主/穿越/诸葛亮|已完结/长篇|女主穿越成刘璋之女，丞相之妾|
+|*玛丽苏和金手指和三国|[蒿里茫茫](https://www.jjwxc.net/oneauthor.php?authorid=1095861)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=5148726)|季汉大一统/原创女主/魂穿/诸葛亮|已完结/长篇|女主穿越成刘璋之女，丞相之妾|
 |瞒草子|陈永年|百度贴吧|曹魏||嘉国色彧天香出处|
 |南柯|[lemon drop](https://www.jjwxc.net/oneauthor.php?authorid=482902)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=2549090)|季汉/诸葛亮/重生|坑|写丞相重生回东征前夕诸事；文笔与情节绝佳，可惜坑了|
 |*你只能爱我|鬼游戏|[马赵吧](https://tieba.baidu.com/p/1262145046?pn=1)|马赵||一说为超狂野云哀伤出处|
@@ -36,6 +40,7 @@
 |十二旒|螣蛇吐灰|[魏宫风流吧](https://tieba.baidu.com/p/499763025)|曹all|短篇合集||
 |同学少年多不贱|若虚||现代/诸葛亮/月亮|已完结/长篇|亮和旧友上大学诸事|
 |*望笑远|程静语|[三国同人吧](https://tieba.baidu.com/p/435239745?pn=1)|策权/all权||哥权美出处|
+|卫将军的猫|[ANNA](https://annafox.lofter.com/)|[Lofter](https://annafox.lofter.com/post/273284_1735859)|季汉/姜维/史向|已完结/短篇||
 |**吴侬|晏昭泉|三国同人吧 蒙逊吧|蒙逊||笑倾合肥娇羞张出处|
 |**相煎|romasky|晋江原创网|懿丕/植丕||爹丕暖出处|
 |相思引|||维亮||维亮经典|

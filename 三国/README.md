@@ -16,6 +16,7 @@
 |成都妖奇谈|[ANNA](https://annafox.lofter.com/)|[Lofter](https://annafox.lofter.com/post/273284_244bf18)|季汉|已完结/短篇||
 |大好河山|匪华|策瑜吧|策瑜||一说公瑾臀波照大江出处《江东瑜策双雄情》（野风野火）涉嫌抄袭此文|
 |定军山|[还魂草](https://www.jjwxc.net/oneauthor.php?authorid=546921)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=1333002)|玄亮|已完结/长篇|
+|东方将白|[yunshannn](http://archiveofourown.org/users/yunshannn/pseuds/yunshannn)|[AO3](http://archiveofourown.org/works/39815223)|董卓x荀彧/曹荀/h|已完结/短篇|下药|
 |焚琴煮鹤||晋江论坛|曹郭荀|||
 |凤书三国|[露浓](https://www.jjwxc.net/oneauthor.php?authorid=269458)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=356637)|季汉大一统/原创女主/身穿/荀谌|已完结/长篇|女主穿越和刘备长女相貌相同|
 |割舍|北固山下|Lofter|玄亮|||
@@ -47,6 +48,7 @@
 |授业|遐离||季汉/维亮|已完结/短篇|伯约亲一下丞相为丞相续命三年|
 |蜀锦|诸葛伯约||维亮|||
 |蜀殇|||玄亮/生子|||
+|碎玉章台|[Mr_眉毛子](https://www.jjwxc.net/oneauthor.php?authorid=802051)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=1447853)|策瑜/all瑜/曹郭|待完结||
 |弱点|[流波浅吟](https://liuboqianyin.lofter.com/)|[Lofter](https://liuboqianyin.lofter.com/post/1d0cc088_c0c12ef)|季汉/维亮/演义向|已完结/短篇||
 |十二旒|螣蛇吐灰|[魏宫风流吧](https://tieba.baidu.com/p/499763025)|曹all|短篇合集||
 |同学少年多不贱|若虚||现代/诸葛亮/月亮|已完结/长篇|亮和旧友上大学诸事|
@@ -72,3 +74,4 @@
 5. [【附录篇】三国雷文口诀出处一览&三国相关内容推荐](https://lucksong.lofter.com/post/37b502_2b41168f1)-LOFTER[@幸歌](https://lucksong.lofter.com/)
 6. [个人向三国同人推荐](https://yongluan.lofter.com/post/1f263651_1cb9ed839)-LOFTER[@八風](https://yongluan.lofter.com/)
 7. [私人粮仓（曹魏 主郭嘉）（不断添加中……）](https://richangbeta.lofter.com/post/1cae7e89_94eb993)-LOFTER[@祭酒日常](https://richangbeta.lofter.com/)
+8. [策瑜优秀同人文推荐整合](https://jiuyu129.lofter.com/post/1ef44b9d_10f92dc5)-LOFTER[@Liquor渝](https://jiuyu129.lofter.com/)

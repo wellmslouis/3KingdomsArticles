@@ -23,10 +23,14 @@
 |归处|熊猫F|蜀宫深处|季汉/玄亮|已完结/短篇|丞相先去世，刘备祭诸葛if|
 |归心|林奚||郭曹/生子||英雄母亲曹丞相出处|
 |恨|甜品有毒||all亮/h||懿爬墙出处|
+|衡阳雁[<sup>1</sup>](#R1)|胡说姬||曹亮|已完结/中篇||
+|洪荒[<sup>1</sup>](#R1)|恺漠|瑜亮吧|瑜亮|已完结/短篇||
+|花火[<sup>1</sup>](#R1)|恺漠|[瑜亮吧](https://tieba.baidu.com/p/543656657)|瑜亮|已完结/短篇||
 |昏宴|[延熙十九年](http://yanxi19.lofter.com/)|[Lofter](http://yanxi19.lofter.com/post/1cac4d7b_24360c8)|钟姜|已完结/短篇||
 |**祸水|白小冷|晋江原创网|all董卓||娇花董温侯尝出处|
 |祭则寡人|[露浓](https://www.jjwxc.net/oneauthor.php?authorid=269458)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=4825803&chapterid=1) [Lofter](https://the-otherworlder.lofter.com/post/275b81_1c943d482)|季汉/刘禅x诸葛亮/史向|已完结/短篇|从“政由葛氏，祭则寡人”引来的双方交流与丞相行大礼（关注点错误x）|
 |*家有儿女|[ANNA](https://annafox.lofter.com/)|[Lofter](https://www.lofter.com/front/blog/collection/share?collectionId=1650389)|季汉/诸葛瞻/诸葛亮/姜维/现代|已完结/长篇|如果三国众陆续穿越到现代社会过着普通人的生活会怎样的脑洞|
+|蒹葭[<sup>1</sup>](#R1)|[蒲屋](https://www.jjwxc.net/oneauthor.php?authorid=287900)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=1200257)|瑜亮/演义向|已完结/中篇||
 |姜维死后在地下见到蜀国重臣会是怎么样的对话?|[宣汉](https://www.zhihu.com/people/xuan-yi-18-97)|[知乎](https://www.zhihu.com/question/320254633/answer/685422409)|季汉/姜维/地府向|已完结/长篇||
 |将死|[炎鸟](https://www.jjwxc.net/oneauthor.php?authorid=498943)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=811121)|权逊|已完结/长篇||
 |江有汜|[危无咎](https://www.jjwxc.net/oneauthor.php?authorid=1340249) 钟二病|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=2281115)|姜钟|已完结/长篇|姜维反复读档回到过去重塑历史|
@@ -51,25 +55,33 @@
 |碎玉章台|[Mr_眉毛子](https://www.jjwxc.net/oneauthor.php?authorid=802051)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=1447853)|策瑜/all瑜/曹郭|待完结||
 |弱点|[流波浅吟](https://liuboqianyin.lofter.com/)|[Lofter](https://liuboqianyin.lofter.com/post/1d0cc088_c0c12ef)|季汉/维亮/演义向|已完结/短篇||
 |十二旒|螣蛇吐灰|[魏宫风流吧](https://tieba.baidu.com/p/499763025)|曹all|短篇合集||
-|同学少年多不贱[<sup>1</sup>](#R1)|若虚||现代/诸葛亮/月亮|已完结/长篇|亮和旧友上大学诸事|
+|同学少年多不贱|若虚||现代/诸葛亮/月亮|已完结/长篇|亮和旧友上大学诸事|
 |*望笑远|程静语|[三国同人吧](https://tieba.baidu.com/p/435239745?pn=1)|策权/all权||哥权美出处|
 |卫将军的猫|[ANNA](https://annafox.lofter.com/)|[Lofter](https://annafox.lofter.com/post/273284_1735859)|季汉/姜维/史向|已完结/短篇||
 |**吴侬|晏昭泉|三国同人吧 蒙逊吧|蒙逊||笑倾合肥娇羞张出处|
+|昔年垂柳[<sup>1</sup>](#R1)|胡说姬||曹亮/瑜亮/h|已完结/长篇||
 |**相煎|romasky|晋江原创网|懿丕/植丕||爹丕暖出处|
 |相思引|||维亮||维亮经典|
 |驯悍记||晋江论坛|权肃/架空|||
 |一锤定音|[铃铛铛](https://www.jjwxc.net/oneauthor.php?authorid=358133)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=1040021)|现代/曹郭/校园/欢乐|已完结/长篇||
 |周郎顾|[我意逍遥](https://www.jjwxc.net/oneauthor.php?authorid=25659)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=292723)|亮瑜|已完结/短篇||
 |*诸葛军师群发短信后|朱下乡|[百度贴吧](https://tieba.baidu.com/p/2810639777)|多cp/h|未完结/短篇合集|欢乐搞笑无下限，人物形象崩坏而又不崩坏，第一次看这篇文我还在上初中，给了我深深的震撼|
+|朱砂[<sup>1</sup>](#R1)|异世通梦|[瑜亮吧](https://tieba.baidu.com/p/1277908461)|瑜亮|已完结/短篇||
 |*左将军府二三事|[千字文](https://qianziwen670.lofter.com/)|[Lofter](https://www.lofter.com/front/blog/collection/share?collectionId=6345356)|季汉/玄亮/史向|连载中/短篇合集|左将军府时期费董视角日常|
 
 ## 参考资料
 
 > 顺序无意义
 
-
 <div>
 <a name="R1">[1]</a>
+<a href="https://wzx5626yyd.lofter.com/post/3110cdcf_1c735226c">【推文/腐向/诸葛亮同人/ALLcp】撷明月予怀【-上-】。</a>
+-LOFTER
+<a href="https://wzx5626yyd.lofter.com/">@一依度看文了吗（忙碌版）</a>
+</div> 
+
+<div>
+<a name="R2">[1]</a>
 <a href="https://wzx5626yyd.lofter.com/post/3110cdcf_2b41a261f">【推文/诸葛亮中心】撷明月予怀【-下-】</a>
 -LOFTER
 <a href="https://wzx5626yyd.lofter.com/">@一依度看文了吗（忙碌版）</a>

@@ -43,6 +43,7 @@
 |姜维死后在地下见到蜀国重臣会是怎么样的对话?|[宣汉](https://www.zhihu.com/people/xuan-yi-18-97)|[知乎](https://www.zhihu.com/question/320254633/answer/685422409)|季汉/姜维/地府向|已完结/长篇||
 |将死|[炎鸟](https://www.jjwxc.net/oneauthor.php?authorid=498943)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=811121)|权逊|已完结/长篇||
 |江有汜|[危无咎](https://www.jjwxc.net/oneauthor.php?authorid=1340249) 钟二病|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=2281115)|姜钟|已完结/长篇|姜维反复读档回到过去重塑历史|
+|锦官春梦[<sup>4</sup>](#R4)|王梦思明|[蜀宫深处](http://shugong.igetbbs.com/default.php?mod=forum_post&a=list&forum_topic_id=109053)|玄亮/架空|长篇|丞相失忆|
 |锦江玉碎|||季汉/玄亮/虐身|已完结/短篇||
 |锦衾不耐寒|||维亮/h|已完结/短篇||
 |荆波宛在|[ANNA](https://annafox.lofter.com/)|[Lofter](https://www.lofter.com/front/blog/collection/share?collectionId=1650389)|季汉/姜维/魂穿|待完结/长篇|伯约死后穿回三顾前，有一次机会改变历史的故事|
@@ -76,7 +77,7 @@
 |昔年垂柳[<sup>1</sup>](#R1)|胡说姬||曹亮/瑜亮/h|已完结/长篇||
 |**相煎|romasky|晋江原创网|懿丕/植丕||爹丕暖出处|
 |相思引|||维亮||维亮经典|
-|相忘于江湖之鱼水盟[<sup>3</sup>](#R3)|莲桂流芬||玄亮|||
+|相忘于江湖之鱼水盟[<sup>3</sup>](#R3)<sup>-</sup>[<sup>4</sup>](#R4)|莲桂流芬||玄亮/史向|长篇||
 |驯悍记||晋江论坛|权肃/架空|||
 |妖媚的夷陵[<sup>2</sup>](#R2)|||all亮|坑||
 |一锤定音|[铃铛铛](https://www.jjwxc.net/oneauthor.php?authorid=358133)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=1040021)|现代/曹郭/校园/欢乐|已完结/长篇||
@@ -110,7 +111,14 @@
 -百度贴吧@玉案清风
 </div> 
 
-2. [【补档】亮文推荐（1）](https://yscc99.lofter.com/post/320b50ae_1cca4d9c9)-LOFTER[@依子空谷](https://yscc99.lofter.com/)
+<div>
+<a name="R4">[4]</a>
+<a href="https://yscc99.lofter.com/post/320b50ae_1cca4d9c9">【补档】亮文推荐（1）</a>
+-LOFTER
+<a href="https://yscc99.lofter.com/">@依子空谷</a>
+</div> 
+
+
 3. [【推文】玄亮中短篇同人文推荐+食用指南](https://yumeno-1113.lofter.com/post/1fbc3eec_2b57234b2)-LOFTER[@制冷剂罐头](https://yumeno-1113.lofter.com/)
 4. [【曹郭】同人文推荐与整理（一）](https://suiyueyiwan.lofter.com/post/1dd98fd6_c428c44)-LOFTER[@猫不许](https://suiyueyiwan.lofter.com/)
 5. [【附录篇】三国雷文口诀出处一览&三国相关内容推荐](https://lucksong.lofter.com/post/37b502_2b41168f1)-LOFTER[@幸歌](https://lucksong.lofter.com/)

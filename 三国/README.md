@@ -97,3 +97,4 @@
 6. [个人向三国同人推荐](https://yongluan.lofter.com/post/1f263651_1cb9ed839)-LOFTER[@八風](https://yongluan.lofter.com/)
 7. [私人粮仓（曹魏 主郭嘉）（不断添加中……）](https://richangbeta.lofter.com/post/1cae7e89_94eb993)-LOFTER[@祭酒日常](https://richangbeta.lofter.com/)
 8. [策瑜优秀同人文推荐整合](https://jiuyu129.lofter.com/post/1ef44b9d_10f92dc5)-LOFTER[@Liquor渝](https://jiuyu129.lofter.com/)
+9. [举头望明月——谈谈与诸葛亮相关的同人文学作品](https://tieba.baidu.com/p/422142594?pn=1)-百度贴吧@玉案清风

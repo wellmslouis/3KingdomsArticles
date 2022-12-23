@@ -51,6 +51,7 @@
 |*关山辞|[曾表护桥头](https://www.jjwxc.net/oneauthor.php?authorid=3331616)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=5151276)|季汉/原创女主/姜维/史向|连载中/长篇|文笔极优但是言情|
 |归处|熊猫F|蜀宫深处|季汉/玄亮|已完结/短篇|丞相先去世，刘备祭诸葛if|
 |归心|林奚||郭曹/生子||英雄母亲曹丞相出处|
+|国殇|[自在持晚菘](https://shuyangjiang.lofter.com/)|[个人博客](https://bettyshuyang.home.blog/2021/02/01/%e3%80%90%e5%90%8e%e5%ad%a3%e6%b1%89%e6%97%b6%e4%bb%a3%e8%92%8b%e8%b4%b9%e8%91%a3%e5%a7%9c%e6%97%a5%e5%b8%b8%e3%80%91%e3%80%8a%e5%9b%bd%e6%ae%87%e3%80%8b/)|季汉/蒋琬/费祎/董允/姜维|已完结/短篇|丞相去世后蒋费董姜戴孝日常|
 |寒山行[<sup>5</sup>](#R5)|[雒驿柳](https://shujiangshuanglie.lofter.com/)|[Lofter](https://shujiangshuanglie.lofter.com/post/1ec6791a_12aefe29)|维亮/架空|已完结/短篇|鬼故事|
 |何乃太多情[<sup>3</sup>](#R3)|子衿||维亮|已完结/短篇|姜维归汉后到葛相离世前六年间的故事|
 |恨[<sup>2</sup>](#R2)|甜品有毒||all亮/h||懿爬墙出处|
@@ -124,6 +125,7 @@
 |卫将军的猫|[ANNA](https://annafox.lofter.com/)|[Lofter](https://annafox.lofter.com/post/273284_1735859)|季汉/姜维/史向|已完结/短篇|超喜欢的一篇文章之伯约变成猫猫，维粉必看|
 |未亡人的三国[<sup>4</sup>](#R4)|[李坤主](https://www.jjwxc.net/oneauthor.php?authorid=1063654)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=1886022)|群穿|已完结/长篇||
 |我没有想你[<sup>4</sup>](#R4)|左姿||玄亮/瑜亮|||
+|*我们实验室吃枣药丸|[阿云](https://nilnull.lofter.com/)|[Lofter](https://nilnull.lofter.com/post/1d1e5b45_1286401c)|现代/曹郭荀/高校|已完结/长篇|有趣详实的学术圈故事|
 |**吴侬|晏昭泉|三国同人吧 蒙逊吧|蒙逊||笑倾合肥娇羞张出处|
 |**五丈原-赵直篇[<sup>4</sup>](#R4)|宇文觉/初云|蜀宫深处|诸葛亮|||
 |昔年垂柳[<sup>1</sup>](#R1)|胡说姬||曹亮/瑜亮/微h|已完结/长篇|文笔优有古韵，情节较合理别致，但描写了一些季汉内部阴谋论，季汉粉建议慎入|

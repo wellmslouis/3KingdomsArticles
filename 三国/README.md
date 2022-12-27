@@ -4,18 +4,21 @@
 
 > `**`表示暂缺，`*？`代表存疑；
 
+> 作者一栏`/`代表同一作者不同名字，空格代表不同作者；来源一栏空格代表同一文章不同平台；
+
 > 本目录亦包含各类推文向文章（作品上标可跳转参考资料）内推荐的作品；
 
 |作品名|作者|来源|标签|篇幅状态|备注|
 |-|-|-|-|-|-|
 |白帝春深[<sup>4</sup>](#R4)|艾草|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=1871761)|季汉/玄亮/史向|已完结/长篇||
 |白狐[<sup>4</sup>](#R4)|[还魂草](https://www.jjwxc.net/oneauthor.php?authorid=546921)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=917145)|玄亮/延亮|坑||
+|白门楼[<sup>7</sup>](#R7)|[铃酱](https://www.jjwxc.net/oneauthor.php?authorid=358133)/[铃铛铛](https://ravencao.lofter.com/)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=3167318)|辽荀/哨向|已完结/短篇||
 |白羽行[<sup>3</sup>](#R3)|深夜风竹||玄亮|||
 |**百折不挠[<sup>5</sup>](#R5)|南北杏炖鹧鸪|Lofter|维亮|连载中/中篇|另类的斩马谡|
 |半生缘|||玄亮/虐身|||
-|薄情书|梦小夜°|[曹郭吧](https://tieba.baidu.com/p/3495440680?)|曹魏/曹郭/史向|已完结/短篇|日常与淡淡的虐|
+|薄情书[<sup>7</sup>](#R7)|梦小夜°/[梦小夜_迎风撒尿](https://mengxiaoyedashuaibi.lofter.com/)|[曹郭吧](https://tieba.baidu.com/p/3495440680?)|曹魏/曹郭/史向|已完结/短篇|日常与淡淡的虐|
 |病秋食事[<sup>6</sup>](#R6)|[我和你最合拍](https://fushimi-1107.lofter.com/)|[Lofter](https://fushimi-1107.lofter.com/post/38c4d8_116259e1)|玄亮|已完结/短篇|丞相生病|
-|不差钱|东风射马耳||曹郭|长篇||
+|不差钱[<sup>7</sup>](#R7)|东风射马耳/[艷](https://allaboutaman.lofter.com)|Lofter|曹郭|长篇||
 |北行[<sup>3</sup>](#R3)|流纨||玄亮||"亮乃北行见备"|
 |**菜色[<sup>4</sup>](#R4)|白夜|百度贴吧||||
 |藏弓|eufuh||玄亮/虐身|||
@@ -53,6 +56,7 @@
 |蛊毒[<sup>4</sup>](#R4)|若虚|||番外坑/长篇||
 |故纸[<sup>5</sup>](#R5)|[墨南辰.](https://1326896491.lofter.com/)|[Lofter](https://1326896491.lofter.com/post/1e5ab631_1cc2fc352)|季汉/玄亮/架空|已完结/短篇||
 |*关山辞|[曾表护桥头](https://www.jjwxc.net/oneauthor.php?authorid=3331616)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=5151276)|季汉/原创女主/姜维/史向|连载中/长篇|文笔极优但是言情|
+|观沧海[<sup>7</sup>](#R7)|[铃酱](https://www.jjwxc.net/oneauthor.php?authorid=358133)/[铃铛铛](https://ravencao.lofter.com/)|[Lofter](https://ravencao.lofter.com/post/39bc46_86b4cef)|曹郭/三国杀|已完结/短篇||
 |归处|熊猫F|蜀宫深处|季汉/玄亮|已完结/短篇|丞相先去世，刘备祭诸葛if|
 |归心|林奚||郭曹/生子||英雄母亲曹丞相出处|
 |国殇|[自在持晚菘](https://shuyangjiang.lofter.com/)|[个人博客](https://bettyshuyang.home.blog/2021/02/01/%e3%80%90%e5%90%8e%e5%ad%a3%e6%b1%89%e6%97%b6%e4%bb%a3%e8%92%8b%e8%b4%b9%e8%91%a3%e5%a7%9c%e6%97%a5%e5%b8%b8%e3%80%91%e3%80%8a%e5%9b%bd%e6%ae%87%e3%80%8b/)|季汉/蒋琬/费祎/董允/姜维|已完结/短篇|丞相去世后蒋费董姜戴孝日常|
@@ -81,6 +85,8 @@
 |锦江玉碎|||季汉/玄亮/虐身|已完结/短篇||
 |锦衾不耐寒|||维亮/h|已完结/短篇||
 |荆波宛在|[ANNA](https://annafox.lofter.com/)|[Lofter](https://www.lofter.com/front/blog/collection/share?collectionId=1650389)|季汉/姜维/魂穿|待完结/长篇|伯约死后穿回三顾前，有一次机会改变历史的故事|
+|经冬[<sup>7</sup>](#R7)|[铃酱](https://www.jjwxc.net/oneauthor.php?authorid=358133)/[铃铛铛](https://ravencao.lofter.com/)|[Lofter](https://ravencao.lofter.com/post/39bc46_1248471) [晋江文学城](https://www.jjwxc.net/onebook.php?novelid=1397883)|曹郭|已完结/短篇||
+|九死一生[<sup>7</sup>](#R7)|[铃酱](https://www.jjwxc.net/oneauthor.php?authorid=358133)/[铃铛铛](https://ravencao.lofter.com/)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=2040089)|现代/曹郭/辽荀/权逊/策瑜|连载中/长篇||
 |角色扮演[<sup>5</sup>](#R5)|[haze](https://rustycode.lofter.com/)|[Lofter](https://rustycode.lofter.com/post/3850b4_1ca050579)|季汉/玄亮|已完结/短篇|强推，有趣的脑洞|
 |军师遇刺梗|||季汉/玄亮/战损|已完结/短篇|战损yyds|
 |孔明与姜维|石一枫||季汉/维亮|已完结/短篇|收姜维的另一种if；"此文血腥暴力色情远胜恨"|
@@ -124,6 +130,7 @@
 |岁岁红莲夜[<sup>4</sup>](#R4)|[还魂草](https://www.jjwxc.net/oneauthor.php?authorid=546921)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=917007)|玄亮/刘卫|已完结/短篇||
 |天之华 地之风[<sup>3</sup>](#R3)|[日]江森备 [译]沙奇||瑜亮/延亮|已完结|瑜亮开山之作|
 |同学少年多不贱[<sup>2</sup>](#R2)|若虚||现代/诸葛亮/月亮|已完结/长篇|亮和旧友上大学诸事，现代校园风格，丞相很拽（|
+|投桃[<sup>7</sup>](#R7)|[铃酱](https://www.jjwxc.net/oneauthor.php?authorid=358133)/[铃铛铛](https://ravencao.lofter.com/)|[Lofter](https://ravencao.lofter.com/post/39bc46_9f69786) [晋江文学城](https://www.jjwxc.net/onebook.php?novelid=1309230)|曹魏/曹郭/三国杀|已完结/短篇||
 |*望笑远|程静语|[三国同人吧](https://tieba.baidu.com/p/435239745?pn=1)|策权/all权||哥权美出处|
 |忘川[<sup>3</sup>](#R3)|生地熟地||维亮|||
 |*唯今[<sup>4</sup>](#R4)|[诸葛亮与他的朋友们](https://koumeiandhisfriends.lofter.com/)|[Lofter](https://koumeiandhisfriends.lofter.com/post/1f696510_12a74739)|玄亮/架空|连载中/长篇||
@@ -142,7 +149,7 @@
 |**寻鹿[<sup>5</sup>](#R5)|晏消|Lofter|史向|已完结/短篇||
 |驯悍记||晋江论坛|权肃/架空|||
 |妖媚的夷陵[<sup>2</sup>](#R2)|||all亮|坑||
-|一锤定音|[铃铛铛](https://www.jjwxc.net/oneauthor.php?authorid=358133)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=1040021)|现代/曹郭/校园/欢乐|已完结/长篇||
+|一锤定音[<sup>7</sup>](#R7)|[铃酱](https://www.jjwxc.net/oneauthor.php?authorid=358133)/[铃铛铛](https://ravencao.lofter.com/)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=1040021)|现代/曹郭/校园/欢乐|已完结/长篇||
 |*瞻彼日月[<sup>4</sup>](#R4)|[鹡鸰于飞](https://jilingyufei.lofter.com/)|[Lofter](https://www.lofter.com/front/blog/collection/share?collectionId=7826907)|玄亮/sp|已完结/长篇||
 |章武遗事[<sup>6</sup>](#R6)|[鱼摸](https://yiyuanyuan123.lofter.com/)|[Lofter](https://yiyuanyuan123.lofter.com/post/1eff222d_1c80abcf4)|玄亮|已完结/短篇|三次刘备以为诸葛亮喜欢他|
 |砧声捣[<sup>6</sup>](#R6)|[Freyr](https://sunnyfreyr.lofter.com/)|[Lofter](https://sunnyfreyr.lofter.com/post/34a9cf_12e9ab7bb)|玄亮|已完结/短篇|入川前；捣衣|

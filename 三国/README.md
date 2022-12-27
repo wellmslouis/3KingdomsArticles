@@ -25,6 +25,7 @@
 |策反者|章武春|晋江论坛|季汉/维亮|坑/长篇|维亮经典好文|
 |长安诺|[ANNA](https://annafox.lofter.com/)|[Lofter](https://annafox.lofter.com/post/273284_16b8947)|季汉/马赵/史向|已完结/短篇|马赵镇圈文|
 |成都妖奇谈[<sup>4</sup>](#R4)|[ANNA](https://annafox.lofter.com/)|[Lofter](https://annafox.lofter.com/post/273284_244bf18)|季汉|已完结/短篇||
+|出戏[<sup>7</sup>](#R7)|[好吃的水果](https://peachisyummy.lofter.com/)/[ClaireQ](http://archiveofourown.org/users/ClaireQ)|[AO3](http://archiveofourown.org/works/25298977)|曹郭|长篇||
 |春睡[<sup>6</sup>](#R6)|[应该没人认出来](https://yinggaimeirenrenchulai.lofter.com/)|[Lofter](https://yinggaimeirenrenchulai.lofter.com/post/1f9c8e0d_1c85096a9)|玄亮|已完结/短篇|鱼水的驭人之术|
 |刺[<sup>4</sup>](#R4)|左姿|||短篇||
 |*刺汉[<sup>4</sup>](#R4)|[ANNA](https://annafox.lofter.com/)|[Lofter](https://annafox.lofter.com/post/273284_1c8423bf1)|季汉/维亮|已完结/长篇|维亮古代养成&刺客梗|
@@ -65,6 +66,7 @@
 |恨[<sup>2</sup>](#R2)|甜品有毒||all亮/h||懿爬墙出处|
 |衡阳雁[<sup>1</sup>](#R1)|胡说姬||曹亮|已完结/中篇||
 |洪荒[<sup>1</sup>](#R1)|恺漠|瑜亮吧|瑜亮|已完结/短篇||
+|**红玫瑰，白玫瑰与自行车[<sup>7</sup>](#R7)|[好吃的水果](https://peachisyummy.lofter.com/)/[ClaireQ](http://archiveofourown.org/users/ClaireQ)|Lofter|曹郭/真三|||
 |花火[<sup>1</sup>](#R1)|恺漠|[瑜亮吧](https://tieba.baidu.com/p/543656657)|瑜亮|已完结/短篇||
 |化成动物也认识你[<sup>2</sup>](#R2)|何满坑|晋江论坛|多cp/现代|坑|转世成动物|
 |昏宴|[延熙十九年](http://yanxi19.lofter.com/)|[Lofter](http://yanxi19.lofter.com/post/1cac4d7b_24360c8)|钟姜|已完结/短篇||
@@ -91,6 +93,8 @@
 |军师遇刺梗|||季汉/玄亮/战损|已完结/短篇|战损yyds|
 |孔明与姜维|石一枫||季汉/维亮|已完结/短篇|收姜维的另一种if；"此文血腥暴力色情远胜恨"|
 |离合总关情[<sup>6</sup>](#R6)|黯染siren|[攻得吾亮吧](https://tieba.baidu.com/p/492689866)|玄亮|长篇||
+|**离魂[<sup>7</sup>](#R7)|[好吃的水果](https://peachisyummy.lofter.com/)/[ClaireQ](http://archiveofourown.org/users/ClaireQ)|Lofter|曹郭/扭三/三国杀|||
+|**乱[<sup>7</sup>](#R7)|[好吃的水果](https://peachisyummy.lofter.com/)/[ClaireQ](http://archiveofourown.org/users/ClaireQ)|Lofter|曹郭|||
 |乱世|迷之越|[玄亮吧](https://tieba.baidu.com/p/2824410311?see_lz=1&pn=1)|季汉/玄亮|长篇|亮凄然出处|
 |*落子不悔|[花灯见](https://www.jjwxc.net/oneauthor.php?authorid=2834464)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=6820665)|原创女主/荀彧/女强|连载中/长篇|荀令君重生；文笔优然而因女强描写女主创事业情节较多,更想看令君的朋友慎入|
 |*玛丽苏和金手指和三国|[蒿里茫茫](https://www.jjwxc.net/oneauthor.php?authorid=1095861)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=5148726)|季汉大一统/原创女主/魂穿/诸葛亮|已完结/长篇|女主穿越成刘璋之女，丞相之妾|
@@ -98,8 +102,10 @@
 |*？蒙尘之事[<sup>4</sup>](#R4)|[瑶卷](https://guyaojuan.lofter.com/)|Lofter||||
 |灭焰|柴桑||亮瑜|||
 |魔考[<sup>5</sup>](#R5)|[白蝉](https://baichan886.lofter.com/)|[Lofter](https://baichan886.lofter.com/post/1d6fbecf_1c9a7d8ee)|玄亮/演义向|短篇||
+|**末日迷情[<sup>7</sup>](#R7)|[好吃的水果](https://peachisyummy.lofter.com/)/[ClaireQ](http://archiveofourown.org/users/ClaireQ)|Lofter|曹郭|||
 |南柯|[lemon drop](https://www.jjwxc.net/oneauthor.php?authorid=482902)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=2549090)|季汉/诸葛亮/重生|坑|写丞相重生回东征前夕诸事；文笔与情节绝佳，可惜坑了|
 |*你只能爱我|鬼游戏|[马赵吧](https://tieba.baidu.com/p/1262145046?pn=1)|马赵||一说为超狂野云哀伤出处|
+|**偶遇[<sup>7</sup>](#R7)|[好吃的水果](https://peachisyummy.lofter.com/)/[ClaireQ](http://archiveofourown.org/users/ClaireQ)|Lofter|现代/曹郭|||
 |**歧路[<sup>5</sup>](#R5)|晏消|Lofter|史向|已完结/短篇||
 |器物志[<sup>4</sup>](#R4)|[舞舜华](https://2435793371.lofter.com/)|[Lofter](https://2435793371.lofter.com/post/1d4ccd21_10b064ff)||短篇||
 |气话[<sup>5</sup>](#R5)|[白蝉](https://baichan886.lofter.com/)|[Lofter](https://baichan886.lofter.com/post/1d6fbecf_12c61a75b)|玄亮/演义向|已完结/短篇||
@@ -131,6 +137,7 @@
 |天之华 地之风[<sup>3</sup>](#R3)|[日]江森备 [译]沙奇||瑜亮/延亮|已完结|瑜亮开山之作|
 |同学少年多不贱[<sup>2</sup>](#R2)|若虚||现代/诸葛亮/月亮|已完结/长篇|亮和旧友上大学诸事，现代校园风格，丞相很拽（|
 |投桃[<sup>7</sup>](#R7)|[铃酱](https://www.jjwxc.net/oneauthor.php?authorid=358133)/[铃铛铛](https://ravencao.lofter.com/)|[Lofter](https://ravencao.lofter.com/post/39bc46_9f69786) [晋江文学城](https://www.jjwxc.net/onebook.php?novelid=1309230)|曹魏/曹郭/三国杀|已完结/短篇||
+|**晚间餐厅[<sup>7</sup>](#R7)|[好吃的水果](https://peachisyummy.lofter.com/)/[ClaireQ](http://archiveofourown.org/users/ClaireQ)|Lofter|曹郭|||
 |*望笑远|程静语|[三国同人吧](https://tieba.baidu.com/p/435239745?pn=1)|策权/all权||哥权美出处|
 |忘川[<sup>3</sup>](#R3)|生地熟地||维亮|||
 |*唯今[<sup>4</sup>](#R4)|[诸葛亮与他的朋友们](https://koumeiandhisfriends.lofter.com/)|[Lofter](https://koumeiandhisfriends.lofter.com/post/1f696510_12a74739)|玄亮/架空|连载中/长篇||

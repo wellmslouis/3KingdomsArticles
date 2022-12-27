@@ -18,7 +18,7 @@
 |不差钱|东风射马耳||曹郭|长篇||
 |北行[<sup>3</sup>](#R3)|流纨||玄亮||"亮乃北行见备"|
 |**菜色[<sup>4</sup>](#R4)|白夜|百度贴吧||||
-|藏弓|||玄亮/虐身|||
+|藏弓|eufuh||玄亮/虐身|||
 |策反者|章武春|晋江论坛|季汉/维亮|坑/长篇|维亮经典好文|
 |长安诺|[ANNA](https://annafox.lofter.com/)|[Lofter](https://annafox.lofter.com/post/273284_16b8947)|季汉/马赵/史向|已完结/短篇|马赵镇圈文|
 |成都妖奇谈[<sup>4</sup>](#R4)|[ANNA](https://annafox.lofter.com/)|[Lofter](https://annafox.lofter.com/post/273284_244bf18)|季汉|已完结/短篇||
@@ -37,6 +37,7 @@
 |**非正常穿越[<sup>3</sup>](#R3)|月澄明||懿亮/穿越|||
 |焚琴煮鹤||晋江论坛|曹郭荀|||
 |**风雪夜归人[<sup>3</sup>](#R3)|若虚||玄亮|||
+|风雪夜归人|左姿||玄亮|||
 |**风起陇西[<sup>4</sup>](#R4)|马伯庸|海洋出版社||已完结/长篇||
 |凤书三国|[露浓](https://www.jjwxc.net/oneauthor.php?authorid=269458)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=356637)|季汉大一统/原创女主/身穿/荀谌|已完结/长篇|女主穿越和刘备长女相貌相同|
 |釜底游鱼[<sup>4</sup>](#R4)|[还魂草](https://www.jjwxc.net/oneauthor.php?authorid=546921)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=1344880)|玄亮|已完结/短篇||
@@ -46,6 +47,7 @@
 |割舍|北固山下|Lofter|玄亮/史向/灵异|已完结/短篇|丞相扶灵归成都诸事|
 |葛侯[<sup>4</sup>](#R4)||||已完结/短篇||
 |**更漏[<sup>4</sup>](#R4)|鹡鸰于飞|||||
+|更漏|左姿|||玄亮||
 |**功成之后[<sup>4</sup>](#R4)|宇文觉/初云|蜀宫深处|诸葛亮|||
 |攻心[<sup>5</sup>](#R5)|王梦思明|[蜀宫深处](https://2435793371.lofter.com/post/1d4ccd21_122a93ed)|史向|坑/中篇||
 |蛊毒[<sup>4</sup>](#R4)|若虚|||番外坑/长篇||
@@ -87,7 +89,7 @@
 |*落子不悔|[花灯见](https://www.jjwxc.net/oneauthor.php?authorid=2834464)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=6820665)|原创女主/荀彧/女强|连载中/长篇|荀令君重生；文笔优然而因女强描写女主创事业情节较多,更想看令君的朋友慎入|
 |*玛丽苏和金手指和三国|[蒿里茫茫](https://www.jjwxc.net/oneauthor.php?authorid=1095861)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=5148726)|季汉大一统/原创女主/魂穿/诸葛亮|已完结/长篇|女主穿越成刘璋之女，丞相之妾|
 |瞒草子|陈永年|百度贴吧|曹魏||嘉国色彧天香出处|
-|**蒙尘之事[<sup>4</sup>](#R4)|[瑶卷](https://guyaojuan.lofter.com/)|Lofter||||
+|*？蒙尘之事[<sup>4</sup>](#R4)|[瑶卷](https://guyaojuan.lofter.com/)|Lofter||||
 |灭焰|柴桑||亮瑜|||
 |魔考[<sup>5</sup>](#R5)|[白蝉](https://baichan886.lofter.com/)|[Lofter](https://baichan886.lofter.com/post/1d6fbecf_1c9a7d8ee)|玄亮/演义向|短篇||
 |南柯|[lemon drop](https://www.jjwxc.net/oneauthor.php?authorid=482902)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=2549090)|季汉/诸葛亮/重生|坑|写丞相重生回东征前夕诸事；文笔与情节绝佳，可惜坑了|
@@ -110,6 +112,7 @@
 |失于流年|[鸦和鹿以及狐](https://www.jjwxc.net/oneauthor.php?authorid=595541)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=1171626)|曹荀|已完结/短篇||
 |十二旒|螣蛇吐灰|[魏宫风流吧](https://tieba.baidu.com/p/499763025)|曹all|短篇合集||
 |世间已无诸葛亮[<sup>4</sup>](#R4)|若虚|||中篇||
+|逝水||||||
 |授业|遐离||季汉/维亮|已完结/短篇|伯约亲一下丞相为丞相续命三年|
 |疏蕊[<sup>6</sup>](#R6)|[我和你最合拍](https://fushimi-1107.lofter.com/)|[Lofter](https://fushimi-1107.lofter.com/post/38c4d8_11a61726)|玄亮|已完结/短篇|称帝后|
 |蜀锦|诸葛伯约||维亮|||
@@ -191,13 +194,19 @@
 
 <div>
 <a name="R6">[6]</a>
-<a href="https://yumeno-1113.lofter.com/post1fbc3eec_2b57234b2">【推文】玄亮中短篇同人文推荐+食用指南</a>
+<a href="https://yumeno-1113.lofter.com/post/1fbc3eec_2b57234b2">【推文】玄亮中短篇同人文推荐+食用指南</a>
 -LOFTER
 <a href="https://yumeno-1113.lofter.com/">@制冷剂罐头</a>
 </div> 
 
+<div>
+<a name="R7">[7]</a>
+<a href="https://suiyueyiwan.lofter.com/post/1dd98fd6_c428c44">【曹郭】同人文推荐与整理（一）</a>
+-LOFTER
+<a href="https://suiyueyiwan.lofter.com/">@猫不许</a>
+</div> 
 
-4. [【曹郭】同人文推荐与整理（一）](https://suiyueyiwan.lofter.com/post/1dd98fd6_c428c44)-LOFTER[@猫不许](https://suiyueyiwan.lofter.com/)
+
 5. [【附录篇】三国雷文口诀出处一览&三国相关内容推荐](https://lucksong.lofter.com/post/37b502_2b41168f1)-LOFTER[@幸歌](https://lucksong.lofter.com/)
 6. [个人向三国同人推荐](https://yongluan.lofter.com/post/1f263651_1cb9ed839)-LOFTER[@八風](https://yongluan.lofter.com/)
 7. [私人粮仓（曹魏 主郭嘉）（不断添加中……）](https://richangbeta.lofter.com/post/1cae7e89_94eb993)-LOFTER[@祭酒日常](https://richangbeta.lofter.com/)

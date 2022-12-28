@@ -39,6 +39,7 @@
 |定军山[<sup>4</sup>](#R4)<sup>,</sup>[<sup>10</sup>](#R10)|[还魂草](https://www.jjwxc.net/oneauthor.php?authorid=546921)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=1333002)|玄亮|已完结/长篇|
 |东方将白|[yunshannn](http://archiveofourown.org/users/yunshannn/pseuds/yunshannn)|[AO3](http://archiveofourown.org/works/39815223)|董卓x荀彧/曹荀/h|已完结/短篇|下药|
 |**非正常穿越[<sup>3</sup>](#R3)|月澄明||懿亮/穿越|||
+|飞鸟青鱼[<sup>11</sup>](#R11)|[绿墙山](https://www.jjwxc.net/oneauthor.php?authorid=477135)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=1278205)|曹郭荀|已完结/短篇|伪童话|
 |焚琴煮鹤[<sup>10</sup>](#R10)||晋江论坛|曹郭荀|||
 |**风雪夜归人[<sup>3</sup>](#R3)|若虚||玄亮|||
 |风雪夜归人|左姿||玄亮|||

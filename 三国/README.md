@@ -4,7 +4,7 @@
 
 > `**`表示暂缺，`*？`代表存疑；
 
-> 作者一栏`/`代表同一作者不同名字，空格代表不同作者；来源一栏空格代表同一文章不同平台；
+> 作者一栏`/`代表同一作者不同名字，`&`代表不同作者；来源一栏空格代表同一文章不同平台；
 
 > 本目录亦包含各类推文向文章（作品上标可跳转参考资料）内推荐的作品；
 
@@ -59,6 +59,7 @@
 |*关山辞|[曾表护桥头](https://www.jjwxc.net/oneauthor.php?authorid=3331616)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=5151276)|季汉/原创女主/姜维/史向|连载中/长篇|文笔极优但是言情|
 |观沧海[<sup>7</sup>](#R7)|[铃酱](https://www.jjwxc.net/oneauthor.php?authorid=358133)/[铃铛铛](https://ravencao.lofter.com/)|[Lofter](https://ravencao.lofter.com/post/39bc46_86b4cef)|曹郭/三国杀|已完结/短篇||
 |归处|熊猫F|蜀宫深处|季汉/玄亮|已完结/短篇|丞相先去世，刘备祭诸葛if|
+|归去来|[Lucere_Aeresta](http://archiveofourown.org/users/Lucere_Aeresta/pseuds/Lucere_Aeresta)/[危无咎](https://www.jjwxc.net/oneauthor.php?authorid=1340249)|[AO3](http://archiveofourown.org/works/24984793)|玄亮/曹亮/h|已完结/短篇|狐狸亮，亮之前被曹老板抓走过，一些强制爱|
 |归心[<sup>9</sup>](#R9)|林奚||郭曹/生子||英雄母亲曹丞相出处|
 |国殇|[自在持晚菘](https://shuyangjiang.lofter.com/)|[个人博客](https://bettyshuyang.home.blog/2021/02/01/%e3%80%90%e5%90%8e%e5%ad%a3%e6%b1%89%e6%97%b6%e4%bb%a3%e8%92%8b%e8%b4%b9%e8%91%a3%e5%a7%9c%e6%97%a5%e5%b8%b8%e3%80%91%e3%80%8a%e5%9b%bd%e6%ae%87%e3%80%8b/)|季汉/蒋琬/费祎/董允/姜维|已完结/短篇|丞相去世后蒋费董姜戴孝日常|
 |寒山行[<sup>5</sup>](#R5)|[雒驿柳](https://shujiangshuanglie.lofter.com/)|[Lofter](https://shujiangshuanglie.lofter.com/post/1ec6791a_12aefe29)|维亮/架空|已完结/短篇|鬼故事|
@@ -82,7 +83,7 @@
 |姜维死后在地下见到蜀国重臣会是怎么样的对话?|[宣汉](https://www.zhihu.com/people/xuan-yi-18-97)|[知乎](https://www.zhihu.com/question/320254633/answer/685422409)|季汉/姜维/地府向|已完结/长篇||
 |将死[<sup>10</sup>](#R10)|[炎鸟](https://www.jjwxc.net/oneauthor.php?authorid=498943)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=811121)|权逊/虐|已完结/长篇||
 |将仲子[<sup>4</sup>](#R4)|若虚|||中篇||
-|江有汜[<sup>10</sup>](#R10)|[危无咎](https://www.jjwxc.net/oneauthor.php?authorid=1340249) 钟二病|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=2281115)|姜钟|已完结/长篇|姜维反复读档回到过去重塑历史|
+|江有汜[<sup>10</sup>](#R10)|[Lucere_Aeresta](http://archiveofourown.org/users/Lucere_Aeresta/pseuds/Lucere_Aeresta)/[危无咎](https://www.jjwxc.net/oneauthor.php?authorid=1340249)&钟二病|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=2281115)|姜钟|已完结/长篇|姜维反复读档回到过去重塑历史|
 |**劫波渡尽[<sup>10</sup>](#R10)|正月初五||权瑜/扭三向|||
 |锦官春梦[<sup>4</sup>](#R4)|王梦思明|[蜀宫深处](http://shugong.igetbbs.com/default.php?mod=forum_post&a=list&forum_topic_id=109053)|玄亮/架空|长篇|丞相失忆|
 |锦江玉碎|||季汉/玄亮/虐身|已完结/短篇||
@@ -157,9 +158,11 @@
 |相思引|||维亮||维亮经典|
 |相忘于江湖之鱼水盟[<sup>3</sup>](#R3)<sup>,</sup>[<sup>4</sup>](#R4)|莲桂流芬||玄亮/史向|长篇||
 |**寻鹿[<sup>5</sup>](#R5)|晏消|Lofter|史向|已完结/短篇||
+|寻找孝直|[露浓](https://www.jjwxc.net/oneauthor.php?authorid=269458)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=1157083)|季汉/地府/刘备/法正/刘巴|已完结/长篇||
 |驯悍记[<sup>10</sup>](#R10)||晋江论坛|权肃/架空|||
 |妖媚的夷陵[<sup>2</sup>](#R2)|||all亮|坑||
 |一锤定音[<sup>7</sup>](#R7)|[铃酱](https://www.jjwxc.net/oneauthor.php?authorid=358133)/[铃铛铛](https://ravencao.lofter.com/)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=1040021)|现代/曹郭/校园/欢乐|已完结/长篇||
+|远客[<sup>11</sup>](#R11)|桓彧|[荀彧吧](https://tieba.baidu.com/p/2006118403)|郭荀|||
 |*瞻彼日月[<sup>4</sup>](#R4)|[鹡鸰于飞](https://jilingyufei.lofter.com/)|[Lofter](https://www.lofter.com/front/blog/collection/share?collectionId=7826907)|玄亮/sp|已完结/长篇||
 |章武遗事[<sup>6</sup>](#R6)|[鱼摸](https://yiyuanyuan123.lofter.com/)|[Lofter](https://yiyuanyuan123.lofter.com/post/1eff222d_1c80abcf4)|玄亮|已完结/短篇|三次刘备以为诸葛亮喜欢他|
 |砧声捣[<sup>6</sup>](#R6)|[Freyr](https://sunnyfreyr.lofter.com/)|[Lofter](https://sunnyfreyr.lofter.com/post/34a9cf_12e9ab7bb)|玄亮|已完结/短篇|入川前；捣衣|
@@ -240,7 +243,13 @@
 <a href="https://yongluan.lofter.com/">@八風</a>
 </div> 
 
+<div>
+<a name="R11">[11]</a>
+<a href="https://coranholmes.lofter.com/post/19686a_e9f207">推荐一些很赞的三国文（持续收集ing）</a>
+-LOFTER
+<a href="https://coranholmes.lofter.com/">@兮嘉</a>
+</div> 
+
 
 7. [私人粮仓（曹魏 主郭嘉）（不断添加中……）](https://richangbeta.lofter.com/post/1cae7e89_94eb993)-LOFTER[@祭酒日常](https://richangbeta.lofter.com/)
 8. [策瑜优秀同人文推荐整合](https://jiuyu129.lofter.com/post/1ef44b9d_10f92dc5)-LOFTER[@Liquor渝](https://jiuyu129.lofter.com/)
-https://coranholmes.lofter.com/post/19686a_e9f207

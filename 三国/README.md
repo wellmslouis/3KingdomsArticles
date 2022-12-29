@@ -15,7 +15,7 @@
 |白门楼[<sup>7</sup>](#R7)|[铃酱](https://www.jjwxc.net/oneauthor.php?authorid=358133)/[铃铛铛](https://ravencao.lofter.com/)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=3167318)|辽荀/哨向|已完结/短篇||
 |白羽行[<sup>3</sup>](#R3)|深夜风竹||玄亮|||
 |**百折不挠[<sup>5</sup>](#R5)|南北杏炖鹧鸪|Lofter|维亮|连载中/中篇|另类的斩马谡|
-|半生缘|||玄亮/虐身|||
+|半生缘|陨zhi殇|[新浪博客](https://blog.sina.com.cn/s/blog_754a481a0100ppdr.html)|玄亮/虐身|坑/长篇|典型玄亮古早雷文，玄亮+庞统三人高ooc预警，小凤凰又很不幸成为玄亮之中的第三者了，蜀书七咋这么悲伤|
 |薄情书[<sup>7</sup>](#R7)|梦小夜°/[梦小夜_迎风撒尿](https://mengxiaoyedashuaibi.lofter.com/)|[曹郭吧](https://tieba.baidu.com/p/3495440680?)|曹魏/曹郭/史向|已完结/短篇|日常与淡淡的虐|
 |病秋食事[<sup>6</sup>](#R6)|[我和你最合拍](https://fushimi-1107.lofter.com/)|[Lofter](https://fushimi-1107.lofter.com/post/38c4d8_116259e1)|玄亮|已完结/短篇|丞相生病|
 |不差钱[<sup>7</sup>](#R7)|东风射马耳/[艷](https://allaboutaman.lofter.com)|Lofter|曹郭|长篇||
@@ -54,7 +54,7 @@
 |割舍[<sup>10</sup>](#R10)|北固山下|Lofter|玄亮/史向/灵异|已完结/短篇|丞相扶灵归成都诸事|
 |葛侯[<sup>4</sup>](#R4)||||已完结/短篇||
 |**更漏[<sup>4</sup>](#R4)|鹡鸰于飞|||||
-|更漏|左姿|||玄亮||
+|更漏|左姿||玄亮|||
 |**功成之后[<sup>4</sup>](#R4)|宇文觉/初云|蜀宫深处|诸葛亮|||
 |攻心[<sup>5</sup>](#R5)|王梦思明|[蜀宫深处](https://2435793371.lofter.com/post/1d4ccd21_122a93ed)|史向|坑/中篇||
 |蛊毒[<sup>4</sup>](#R4)|若虚|||番外坑/长篇||
@@ -82,7 +82,7 @@
 |记忆之伤[<sup>3</sup>](#R3)|雀雀|[Lofter](https://spiderdog.lofter.com/post/3e05c2_127b5916)|玄亮|已完结/短篇||
 |技术宅是件风雅的事[<sup>4</sup>](#R4)|[还魂草](https://www.jjwxc.net/oneauthor.php?authorid=546921)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=916947)|玄亮|已完结/短篇||
 |*家有儿女[<sup>4</sup>](#R4)|[ANNA](https://annafox.lofter.com/)|[Lofter](https://www.lofter.com/front/blog/collection/share?collectionId=1650389)|季汉/诸葛瞻/诸葛亮/姜维/现代|已完结/长篇|如果三国众陆续穿越到现代社会过着普通人的生活会怎样的脑洞；强推|
-|假如他们都是文圈大大[<sup>5</sup>](#R5)|[舞舜华](https://2435793371.lofter.com/)|[Lofter](https://2435793371.lofter.com/post/1d4ccd21_122a93ed)|季汉/玄亮/姜维/地府|已完结/长篇|强推，季汉相府群像，丞相超帅|
+|假如他们都是文圈大大[<sup>5</sup>](#R5)|[舞舜华](https://2435793371.lofter.com/)|[Lofter](https://2435793371.lofter.com/post/1d4ccd21_122a93ed)|季汉/玄亮/姜维/地府|已完结/长篇|强推，季汉相府群像，丞相超帅，百看不厌|
 |蒹葭[<sup>1</sup>](#R1)|[蒲屋](https://www.jjwxc.net/oneauthor.php?authorid=287900)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=1200257)|瑜亮/演义向|已完结/中篇||
 |建安雪未晴[<sup>14</sup>](#R14)|[莫离笑](https://www.jjwxc.net/oneauthor.php?authorid=1109095)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=1959777)|曹郭|已完结/短篇||
 |姜维死后在地下见到蜀国重臣会是怎么样的对话?|[宣汉](https://www.zhihu.com/people/xuan-yi-18-97)|[知乎](https://www.zhihu.com/question/320254633/answer/685422409)|季汉/姜维/地府向|已完结/长篇||
@@ -288,5 +288,3 @@ https://richangbeta.lofter.com/post/1cae7e89_a19724c
 8. [策瑜优秀同人文推荐整合](https://jiuyu129.lofter.com/post/1ef44b9d_10f92dc5)-LOFTER[@Liquor渝](https://jiuyu129.lofter.com/)
 
 https://tieba.baidu.com/p/2428800571?pn=1
-
-https://tieba.baidu.com/p/5976199680?

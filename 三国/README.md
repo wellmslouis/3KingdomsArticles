@@ -15,13 +15,13 @@
 |白门楼[<sup>7</sup>](#R7)|[铃酱](https://www.jjwxc.net/oneauthor.php?authorid=358133)/[铃铛铛](https://ravencao.lofter.com/)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=3167318)|辽荀/哨向|已完结/短篇||
 |白羽行[<sup>3</sup>](#R3)|深夜风竹||玄亮|||
 |**百折不挠[<sup>5</sup>](#R5)|南北杏炖鹧鸪|Lofter|维亮|连载中/中篇|另类的斩马谡|
-|半生缘|陨zhi殇|[新浪博客](https://blog.sina.com.cn/s/blog_754a481a0100ppdr.html)|玄亮/虐身|坑/长篇|典型玄亮古早雷文，玄亮+庞统三人高ooc预警，小凤凰又很不幸成为玄亮之中的第三者了，蜀书七咋这么悲伤|
-|薄情书[<sup>7</sup>](#R7)|梦小夜°/[梦小夜_迎风撒尿](https://mengxiaoyedashuaibi.lofter.com/)|[曹郭吧](https://tieba.baidu.com/p/3495440680?)|曹魏/曹郭/史向|已完结/短篇|日常与淡淡的虐|
+|半生缘|陨zhi殇|[新浪博客](https://blog.sina.com.cn/s/blog_754a481a0100ppdr.html)|玄亮/虐身|坑/长篇|典型玄亮古早雷文，为虐而虐，玄亮+庞统三人高ooc预警，小凤凰又很不幸成为玄亮之中的第三者了，蜀书七咋这么悲伤|
+|薄情书[<sup>7</sup>](#R7)<sup>,</sup>[<sup>15</sup>](#R15)|梦小夜°/[梦小夜_迎风撒尿](https://mengxiaoyedashuaibi.lofter.com/)|[曹郭吧](https://tieba.baidu.com/p/3495440680?)|曹魏/曹郭/史向|已完结/短篇|日常与淡淡的虐|
 |病秋食事[<sup>6</sup>](#R6)|[我和你最合拍](https://fushimi-1107.lofter.com/)|[Lofter](https://fushimi-1107.lofter.com/post/38c4d8_116259e1)|玄亮|已完结/短篇|丞相生病|
-|不差钱[<sup>7</sup>](#R7)|东风射马耳/[艷](https://allaboutaman.lofter.com)|Lofter|曹郭|长篇||
+|不差钱[<sup>7</sup>](#R7)<sup>,</sup>[<sup>15</sup>](#R15)|东风射马耳/[艷](https://allaboutaman.lofter.com)|Lofter|曹郭|长篇||
 |不足道[<sup>11</sup>](#R11)|[愛唄](https://aiuta.lofter.com/)|[Lofter](https://aiuta.lofter.com/post/20c112_8eb3a03)|丕会|||
 |北行[<sup>3</sup>](#R3)|流纨||玄亮||"亮乃北行见备"|
-|采薇·采薇[<sup>13</sup>](#R13)|[柴郡猫](https://www.jjwxc.net/oneauthor.php?authorid=222223)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=273953)|曹郭|已完结/长篇||
+|采薇·采薇[<sup>13</sup>](#R13)<sup>,</sup>[<sup>15</sup>](#R15)|[柴郡猫](https://www.jjwxc.net/oneauthor.php?authorid=222223)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=273953)|曹郭/史向|已完结/长篇||
 |**菜色[<sup>4</sup>](#R4)|白夜|百度贴吧||||
 |藏弓|eufuh||玄亮/虐身|||
 |策反者[<sup>10</sup>](#R10)|章武春|晋江论坛|季汉/维亮|坑/长篇|维亮经典好文|
@@ -40,6 +40,7 @@
 |*地府系列[<sup>5</sup>](#R5)|[一颗星星](https://wenruo366.lofter.com/)|[Lofter](https://www.lofter.com/front/blog/collection/share?collectionId=5615968)|季汉/地府|连载中/短篇合集|强推，季汉地府欢乐群像|
 |定军山[<sup>4</sup>](#R4)<sup>,</sup>[<sup>10</sup>](#R10)|[还魂草](https://www.jjwxc.net/oneauthor.php?authorid=546921)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=1333002)|玄亮|已完结/长篇|
 |东方将白|[yunshannn](http://archiveofourown.org/users/yunshannn/pseuds/yunshannn)|[AO3](http://archiveofourown.org/works/39815223)|董卓x荀彧/曹荀/h|已完结/短篇|下药|
+|**冬十月[<sup>15</sup>](#R15)||新浪微博|荀郭|||
 |**非正常穿越[<sup>3</sup>](#R3)|月澄明||懿亮/穿越|||
 |飞鸟青鱼[<sup>11</sup>](#R11)|[绿墙山](https://www.jjwxc.net/oneauthor.php?authorid=477135)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=1278205)|曹郭荀|已完结/短篇|伪童话|
 |焚琴煮鹤[<sup>10</sup>](#R10)||晋江论坛|曹郭荀|||
@@ -94,19 +95,22 @@
 |锦江玉碎|||季汉/玄亮/虐身|已完结/短篇||
 |锦衾不耐寒|||维亮/h|已完结/短篇||
 |荆波宛在|[ANNA](https://annafox.lofter.com/)|[Lofter](https://www.lofter.com/front/blog/collection/share?collectionId=1650389)|季汉/姜维/魂穿|待完结/长篇|伯约死后穿回三顾前，有一次机会改变历史的故事|
-|经冬[<sup>7</sup>](#R7)<sup>,</sup>[<sup>11</sup>](#R11)<sup>,</sup>[<sup>13</sup>](#R13)|[铃酱](https://www.jjwxc.net/oneauthor.php?authorid=358133)/[铃铛铛](https://ravencao.lofter.com/)|[Lofter](https://ravencao.lofter.com/post/39bc46_1248471) [晋江文学城](https://www.jjwxc.net/onebook.php?novelid=1397883)|曹郭|已完结/短篇||
+|经冬[<sup>7</sup>](#R7)<sup>,</sup>[<sup>11</sup>](#R11)<sup>,</sup>[<sup>13</sup>](#R13)<sup>,</sup>[<sup>15</sup>](#R15)|[铃酱](https://www.jjwxc.net/oneauthor.php?authorid=358133)/[铃铛铛](https://ravencao.lofter.com/)|[Lofter](https://ravencao.lofter.com/post/39bc46_1248471) [晋江文学城](https://www.jjwxc.net/onebook.php?novelid=1397883)|曹郭/史向|已完结/短篇||
 |静水[<sup>10</sup>](#R10)|风过耳|[蜀宫深处](http://shugong.igetbbs.com/default.php?mod=forum_post&a=list&forum_topic_id=104479)|玄亮|坑||
-|九死一生[<sup>7</sup>](#R7)|[铃酱](https://www.jjwxc.net/oneauthor.php?authorid=358133)/[铃铛铛](https://ravencao.lofter.com/)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=2040089)|现代/曹郭/辽荀/权逊/策瑜|连载中/长篇||
+|九死一生[<sup>7</sup>](#R7)<sup>,</sup>[<sup>15</sup>](#R15)|[铃酱](https://www.jjwxc.net/oneauthor.php?authorid=358133)/[铃铛铛](https://ravencao.lofter.com/)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=2040089)|现代/曹郭/辽荀/权逊/策瑜|连载中/长篇||
 |角色扮演[<sup>5</sup>](#R5)|[haze](https://rustycode.lofter.com/)|[Lofter](https://rustycode.lofter.com/post/3850b4_1ca050579)|季汉/玄亮|已完结/短篇|强推，有趣的脑洞|
 |军师遇刺梗|||季汉/玄亮/战损|已完结/短篇|战损yyds|
+|君心如玉[<sup>15</sup>](#R15)|禅心依舊2|Lofter [三国杀同人吧](https://tieba.baidu.com/p/3016998315)|曹郭/丕奕/史向|已完结/短篇||
+|君子香|[千字文](https://qianziwen670.lofter.com/)|Lofter|季汉/亮允/h|已完结/短篇|休昭被下药与丞相欢合解药|
 |孔明与姜维|石一枫||季汉/维亮|已完结/短篇|收姜维的另一种if；"此文血腥暴力色情远胜恨"|
 |离合总关情[<sup>6</sup>](#R6)|黯染siren|[攻得吾亮吧](https://tieba.baidu.com/p/492689866)|玄亮|长篇||
 |**离魂[<sup>7</sup>](#R7)|[好吃的水果](https://peachisyummy.lofter.com/)/[ClaireQ](http://archiveofourown.org/users/ClaireQ)|Lofter|曹郭/扭三/三国杀|||
-|缭绕[<sup>14</sup>](#R14)|[小王纸](https://www.jjwxc.net/oneauthor.php?authorid=684871)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=1301776)|曹郭/现代/校园|已完结/短篇||
+|缭绕[<sup>14</sup>](#R14)<sup>,</sup>[<sup>15</sup>](#R15)|[小王纸](https://www.jjwxc.net/oneauthor.php?authorid=684871)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=1301776)|曹郭/现代/校园|已完结/短篇||
 |**乱[<sup>7</sup>](#R7)|[好吃的水果](https://peachisyummy.lofter.com/)/[ClaireQ](http://archiveofourown.org/users/ClaireQ)|Lofter|曹郭|||
 |乱世[<sup>9</sup>](#R9)|迷之越|[玄亮吧](https://tieba.baidu.com/p/2824410311?see_lz=1&pn=1)|季汉/玄亮|长篇|亮凄然出处|
 |*落子不悔|[花灯见](https://www.jjwxc.net/oneauthor.php?authorid=2834464)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=6820665)|原创女主/荀彧/女强|连载中/长篇|荀令君重生；文笔优然而因女强描写女主创事业情节较多,更想看令君的朋友慎入|
-|*玛丽苏和金手指和三国|[蒿里茫茫](https://www.jjwxc.net/oneauthor.php?authorid=1095861)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=5148726)|季汉一统/原创女主/魂穿/诸葛亮|已完结/长篇|女主穿越成刘璋之女，丞相之妾|
+|落子敲月凉[<sup>15</sup>](#R15)|[山高月晓](https://www.jjwxc.net/oneauthor.php?authorid=619397)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=1658776)|贾诩x张良/郭荀|已完结/长篇|有火凤师兄弟设定|
+|*玛丽苏和金手指和三国|[蒿里茫茫](https://www.jjwxc.net/oneauthor.php?authorid=1095861)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=5148726)|季汉一统/原创女主/魂穿/诸葛亮|已完结/长篇|女主穿越成刘璋之女，丞相之妾；女扮男装有，魔法有，还有去许都把天子带回益州（？）|
 |瞒草子[<sup>9</sup>](#R9)|陈永年|百度贴吧|曹魏||嘉国色彧天香出处|
 |*？蒙尘之事[<sup>4</sup>](#R4)|[瑶卷](https://guyaojuan.lofter.com/)|Lofter||||
 |灭焰[<sup>10</sup>](#R10)|柴桑||亮瑜|||
@@ -129,11 +133,13 @@
 |如果没有明天[<sup>4</sup>](#R4)|左姿/苏氏碧落|[蜀宫深处](http://shugong.igetbbs.com/default.php?mod=forum_post&a=list&forum_topic_id=109027)|玄亮|||
 |弱点|[流波浅吟](https://liuboqianyin.lofter.com/)|[Lofter](https://liuboqianyin.lofter.com/post/1d0cc088_c0c12ef)|季汉/维亮/演义向|已完结/短篇||
 |三国配角演义[<sup>4</sup>](#R4)|马伯庸|江苏文艺出版社||已完结/长篇||
-|三国之攸悠我心[<sup>12</sup>](#R12)|[枫叶白色](https://www.jjwxc.net/oneauthor.php?authorid=292682)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=1057673)|曹魏一统/曹操x荀攸/荀郭/魂穿|已完结/长篇|现代人魂穿荀攸改变历史，副cp荀郭也很香|
+|三国之暗香|[枫叶白色](https://www.jjwxc.net/oneauthor.php?authorid=292682)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=738985)|荀攸x荀彧/重生|待完结/长篇|双荀重生，改变历史|
+|三国之攸悠我心[<sup>12</sup>](#R12)|[枫叶白色](https://www.jjwxc.net/oneauthor.php?authorid=292682)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=1057673)|曹魏一统/曹操x荀攸/荀郭/魂穿|已完结/长篇|现代人魂穿荀攸改变历史，副cp荀郭也很香；欢乐有趣，亦有改变历史与生死的深意|
 |山鬼[<sup>3</sup>](#R3)|月澄明||懿亮|||
+|上邪[<sup>15</sup>](#R15)|[-三分醉-](https://sanfenzui.lofter.com/)|[Lofter](https://sanfenzui.lofter.com/post/253a4c_106a436)|曹郭/史向/文言|已完结/短篇||
 |*参商不见[<sup>4</sup>](#R4)|[瑶卷](https://guyaojuan.lofter.com/)|[Lofter](https://guyaojuan.lofter.com/post/1ee82cbb_101a6833)|玄亮|长篇|军师把命续给主公if|
 |失于流年[<sup>10</sup>](#R10)|[鸦和鹿以及狐](https://www.jjwxc.net/oneauthor.php?authorid=595541)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=1171626)|曹荀|已完结/短篇||
-|十二旒[<sup>10</sup>](#R10)<sup>,</sup>[<sup>13</sup>](#R13)|螣蛇吐灰|[魏宫风流吧](https://tieba.baidu.com/p/499763025)|曹all|短篇合集||
+|十二旒[<sup>10</sup>](#R10)<sup>,</sup>[<sup>13</sup>](#R13)<sup>,</sup>[<sup>15</sup>](#R15)|螣蛇吐灰|[魏宫风流吧](https://tieba.baidu.com/p/499763025)|曹all/史向|短篇合集||
 |世间已无诸葛亮[<sup>4</sup>](#R4)|若虚|||中篇||
 |逝水||||||
 |授业|遐离||季汉/维亮|已完结/短篇|伯约亲一下丞相为丞相续命三年|
@@ -143,6 +149,7 @@
 |蜀殇|||玄亮/生子|||
 |双丞记[<sup>2</sup>](#R2)|又黑我连清人||懿亮/曹亮/虐|坑/长篇||
 |私语[<sup>6</sup>](#R6)|王梦思明|蜀宫深处|玄亮|已完结/短篇||
+|四时系列[<sup>15</sup>](#R15)|[Sevens_阿沧（太忙了但还活着](https://sietecinco.lofter.com/)|[Lofter](https://sietecinco.lofter.com/view)|荀郭|短篇合集||
 |碎玉章台|[Mr_眉毛子](https://www.jjwxc.net/oneauthor.php?authorid=802051)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=1447853)|策瑜/all瑜/曹郭|待完结||
 |岁岁红莲夜[<sup>4</sup>](#R4)|[还魂草](https://www.jjwxc.net/oneauthor.php?authorid=546921)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=917007)|玄亮/刘卫|已完结/短篇||
 |他是龙[<sup>10</sup>](#R10)|[倍雍容](https://beiyongrong.lofter.com/)|[Lofter](https://beiyongrong.lofter.com/post/3111ad85_1c77e4484)|玄亮|已完结/短篇|奇妙脑洞|
@@ -155,7 +162,7 @@
 |*唯今[<sup>4</sup>](#R4)|[诸葛亮与他的朋友们](https://koumeiandhisfriends.lofter.com/)|[Lofter](https://koumeiandhisfriends.lofter.com/post/1f696510_12a74739)|玄亮/架空|连载中/长篇||
 |卫将军的猫|[ANNA](https://annafox.lofter.com/)|[Lofter](https://annafox.lofter.com/post/273284_1735859)|季汉/姜维/史向|已完结/短篇|超喜欢的一篇文章之伯约变成猫猫，维粉必看|
 |未亡人的三国[<sup>4</sup>](#R4)|[李坤主](https://www.jjwxc.net/oneauthor.php?authorid=1063654)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=1886022)|群穿|已完结/长篇||
-|**魏都旧闻录[<sup>11</sup>](#R11)|一尘|三国友盟论坛 [荀彧吧](https://tieba.baidu.com/p/69412882)|||郭奕视角；链接为第一篇风雷引，第二篇营城记暂无|
+|**魏都旧闻录[<sup>11</sup>](#R11)<sup>,</sup>[<sup>15</sup>](#R15)|一尘|三国友盟论坛 [荀彧吧](https://tieba.baidu.com/p/69412882)|曹郭/史向||郭奕视角；链接为第一篇风雷引，第二篇营城记暂无|
 |我没有想你[<sup>4</sup>](#R4)|左姿||玄亮/瑜亮|||
 |*我们实验室吃枣药丸|[阿云](https://nilnull.lofter.com/)|[Lofter](https://nilnull.lofter.com/post/1d1e5b45_1286401c)|现代/曹郭荀/高校|已完结/长篇|有趣详实的学术圈故事|
 |**吴侬[<sup>9</sup>](#R9)|晏昭泉|三国同人吧 蒙逊吧|蒙逊||笑倾合肥娇羞张出处|
@@ -171,7 +178,7 @@
 |驯悍记[<sup>10</sup>](#R10)||晋江论坛|权肃/架空|||
 |妖媚的夷陵[<sup>2</sup>](#R2)|||all亮|坑||
 |夜凉[<sup>14</sup>](#R14)|郭嘉|晋江论坛|曹郭|||
-|一锤定音[<sup>7</sup>](#R7)|[铃酱](https://www.jjwxc.net/oneauthor.php?authorid=358133)/[铃铛铛](https://ravencao.lofter.com/)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=1040021)|现代/曹郭/校园/欢乐|已完结/长篇||
+|一锤定音[<sup>7</sup>](#R7)<sup>,</sup>[<sup>15</sup>](#R15)|[铃酱](https://www.jjwxc.net/oneauthor.php?authorid=358133)/[铃铛铛](https://ravencao.lofter.com/)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=1040021)|现代/曹郭/校园/欢乐|已完结/长篇||
 |**与友书[<sup>11</sup>](#R11)||百度贴吧|荀郭||贾诩视角荀郭|
 |远客[<sup>11</sup>](#R11)|桓彧|[荀彧吧](https://tieba.baidu.com/p/2006118403)|郭荀|||
 |*瞻彼日月[<sup>4</sup>](#R4)|[鹡鸰于飞](https://jilingyufei.lofter.com/)|[Lofter](https://www.lofter.com/front/blog/collection/share?collectionId=7826907)|玄亮/sp|已完结/长篇||
@@ -181,7 +188,7 @@
 |周郎顾|[我意逍遥](https://www.jjwxc.net/oneauthor.php?authorid=25659)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=292723)|亮瑜|已完结/短篇||
 |*诸葛军师群发短信后|朱下乡|[百度贴吧](https://tieba.baidu.com/p/2810639777)|多cp/h|未完结/短篇合集|欢乐搞笑无下限，人物形象崩坏而又不崩坏，第一次看这篇文我还在上初中，给了我深深的震撼|
 |朱砂[<sup>1</sup>](#R1)|异世通梦|[瑜亮吧](https://tieba.baidu.com/p/1277908461)|瑜亮|已完结/短篇||
-|子衿[<sup>14</sup>](#R14)|[沉袖遇羽](https://www.jjwxc.net/oneauthor.php?authorid=70589)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=132591)|曹郭|已完结/长篇|曹郭早期经典|
+|子衿[<sup>14</sup>](#R14)<sup>,</sup>[<sup>15</sup>](#R15)|[沉袖遇羽](https://www.jjwxc.net/oneauthor.php?authorid=70589)|[晋江文学城](https://www.jjwxc.net/onebook.php?novelid=132591)|曹郭/史向|已完结/长篇|曹郭早期经典|
 |最薄·碗[<sup>4</sup>](#R4)|铁背无丝|[糖果亮吧](https://tieba.baidu.com/p/3203758717?pid=121123751125&cid=0#121123751125)||已完结/短篇||
 |最后的汉官威仪[<sup>3</sup>](#R3)|月澄明||懿亮|||
 |*左将军府二三事[<sup>4</sup>](#R4)<sup>,</sup>[<sup>10</sup>](#R10)|[千字文](https://qianziwen670.lofter.com/)|[Lofter](https://www.lofter.com/front/blog/collection/share?collectionId=6345356)|季汉/玄亮/史向|连载中/短篇合集|左将军府时期费董视角日常|
@@ -283,8 +290,17 @@
 <a href="https://fayewen.lofter.com/">@桃花石上</a>
 </div> 
 
-7. [私人粮仓（曹魏 主郭嘉）（不断添加中……）](https://richangbeta.lofter.com/post/1cae7e89_94eb993)-LOFTER[@祭酒日常](https://richangbeta.lofter.com/)
+<div>
+<a name="R15">[15]</a>
+<a href="https://richangbeta.lofter.com/post/1cae7e89_94eb993">私人粮仓（曹魏 主郭嘉）（不断添加中……）</a>
+-LOFTER
+<a href="https://richangbeta.lofter.com/">@祭酒日常</a>
+</div> 
+
+
 https://richangbeta.lofter.com/post/1cae7e89_a19724c
 8. [策瑜优秀同人文推荐整合](https://jiuyu129.lofter.com/post/1ef44b9d_10f92dc5)-LOFTER[@Liquor渝](https://jiuyu129.lofter.com/)
 
 https://tieba.baidu.com/p/2428800571?pn=1
+
+http://coranholmes.lofter.com/post/19686a_1a4db25
